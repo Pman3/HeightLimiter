@@ -1,0 +1,9 @@
+# Maximum height a player can reach before being teleported back
+max-height: 318
+
+# Message shown when a player is restricted
+restriction-message: "§cYou cannot go above Y=%height%!"
+
+# Worlds where this height limit is enforced
+restricted-worlds:
+  - world

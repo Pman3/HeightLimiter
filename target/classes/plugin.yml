@@ -1,0 +1,11 @@
+name: HeightLimiter
+version: '1.0-SNAPSHOT'
+main: me.snake.heightLimiter.HeightLimiter
+api-version: '1.21'
+description: Prevents players from going past a certain height in worlds
+author: Snakeaim
+
+permissions:
+  heightlimiter.bypass:
+    description: Allows the player to bypass the height limit
+    default: op
